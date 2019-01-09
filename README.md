@@ -1,2 +1,2 @@
-# Coures---Comp110
+# Course---Comp110
 Study with Typescript
