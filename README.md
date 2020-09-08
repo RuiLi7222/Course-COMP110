@@ -1,2 +1,2 @@
-# Course-Comp110
+# Course-COMP110
 Introduction to Programming with Typescript
